@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2018 Danny Davila (张丹杰)
+Copyright (c) 2018 Danny Davila (CN: 张丹杰 / JP: 大貴山本)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

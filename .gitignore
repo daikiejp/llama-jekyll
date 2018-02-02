@@ -1,2 +1,9 @@
 # MAC Hidden Store Files
 .DS_Store
+
+# Jekyll Files
+*.gem
+.bundle
+.sass-cache
+_site
+Gemfile.lock
